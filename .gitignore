@@ -1,0 +1,17 @@
+# Environment secrets
+.env
+.env.*
+!.env.example
+
+# Python
+myenv/
+venv/
+__pycache__/
+*.pyc
+
+# React / Node
+node_modules/
+dist/
+
+# Local development
+.vscode/
